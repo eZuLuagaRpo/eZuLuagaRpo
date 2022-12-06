@@ -1,6 +1,7 @@
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## [![Twitter Badge](https://img.shields.io/badge/-@pranjaljain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) [![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/pranjaljain0/) [![Gmail Badge](https://img.shields.io/badge/-hello@pranjaljain.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:hello@pranjaljain.tech)
+## <a href="https://instagram.com/ezuluaga_rpo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezuluaga_rpo" height="30" width="40" /></a>
+
 
 - 🔭 I’m currently working on something amazing
 - 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
